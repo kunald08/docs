@@ -189,12 +189,12 @@ USER → NOTIFICATION : One-to-Many because a user can receive multiple notifica
 | # | Table | Owner | Module |
 |---|-------|-------|--------|
 | 1 | User | Ashwathy | Auth |
-| 2 | JobSeekerProfile | Likhita | Profile |
-| 3 | Education | Likhita | Profile |
-| 4 | Experience | Likhita | Profile |
-| 5 | Skill | Likhita | Profile |
-| 6 | Certification | Likhita | Profile |
-| 7 | Resume | Likhita | Profile |
+| 2 | JobSeekerProfile | *Kunal | Profile |
+| 3 | Education | *Kunal | Profile |
+| 4 | Experience | *Kunal | Profile |
+| 5 | Skill | *Kunal | Profile |
+| 6 | Certification | *Kunal | Profile |
+| 7 | Resume | *Kunal | Profile |
 | 8 | Employer | Chaitanya | Job |
 | 9 | Job | Chaitanya | Job |
 | 10 | Application | Shilpa | Application |
